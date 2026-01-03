@@ -317,7 +317,7 @@ e-learning-keycloak/
 
 ---
 
-## 🔐 Sécurité
+##  Sécurité
 
 ### Principes implémentés
 
